@@ -14,7 +14,10 @@ export default function Main3() {
             </div>
             <div className="main6body">
                 <div className="main6bodyleft">
-
+                    <input type="text" className="main6textbox1" placeholder="Your Name" required/>
+                    <input type="email" className="main6textbox1" placeholder="Your Email" required/>
+                    <textarea className="main6textbox2" placeholder="Your message..."/>
+                    <div className="main6button">Send Message</div>
                 </div>
                 <div className="main6bodyright">
                     <div className="main6rightimg">

@@ -244,10 +244,6 @@ height:20px;
 width:20px;
 margin-left:-12%;
 }
-input[type="date"]{
-  color: lightgray;
-  content: attr(placeholder);
-}
 .main4button{
 margin-left:15%;
 width:70%;
