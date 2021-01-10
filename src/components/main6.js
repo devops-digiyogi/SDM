@@ -14,7 +14,7 @@ export default function Main3() {
             </div>
             <div className="main6body">
                 <div className="main6bodyleft">
-                    
+
                 </div>
                 <div className="main6bodyright">
                     <div className="main6rightimg">
