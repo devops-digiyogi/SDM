@@ -1,0 +1,11 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.4">
+<rect x="0.5" y="0.5" width="63" height="63" rx="9.5" fill="white" stroke="#0099FF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M45 22C44.4477 22 44 22.4477 44 23V32H33V24C33 23.4477 32.5523 23 32 23C31.4477 23 31 23.4477 31 24V32H23V24C23 23.4477 22.5523 23 22 23C21.4477 23 21 23.4477 21 24V32H19C18.4477 32 18 32.4477 18 33C18 33.5523 18.4477 34 19 34H21V42C21 42.5523 21.4477 43 22 43C22.5523 43 23 42.5523 23 42V34H31V42C31 42.5523 31.4477 43 32 43C32.5523 43 33 42.5523 33 42V34H45C45.5523 34 46 33.5523 46 33V23C46 22.4477 45.5523 22 45 22Z" fill="#0099FF"/>
+<rect x="20" y="41" width="4" height="4" rx="2" fill="#0099FF"/>
+<rect x="30" y="41" width="4" height="4" rx="2" fill="#0099FF"/>
+<rect x="20" y="21" width="4" height="4" rx="2" fill="#0099FF"/>
+<rect x="30" y="21" width="4" height="4" rx="2" fill="#0099FF"/>
+<rect x="43" y="20" width="4" height="4" rx="2" fill="#0099FF"/>
+</g>
+</svg>
