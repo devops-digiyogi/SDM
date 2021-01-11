@@ -1,5 +1,6 @@
 import React from 'react'
 import './../css/comp/footer.css';
+import './../css/small-comp/footer.css';
 import './../css/body.css';
 
 export default function Main3() {

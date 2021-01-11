@@ -1,6 +1,8 @@
 import React from 'react'
 import './../css/comp/main2.css';
+import './../css/small-comp/main2.css';
 import './../css/body.css';
+
 import dl from './../assets/images/main2/dl.svg';
 import mul from './../assets/images/main2/mul.svg';
 import ex from './../assets/images/main2/exp.svg';

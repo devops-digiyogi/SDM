@@ -1,5 +1,6 @@
 import React from 'react'
 import './../css/comp/main6.css';
+import './../css/small-comp/main6.css';
 import './../css/body.css';
 
 export default function Main3() {

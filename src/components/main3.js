@@ -1,5 +1,6 @@
 import React from 'react'
 import './../css/comp/main3.css';
+import './../css/small-comp/main3.css';
 import './../css/body.css';
 import t1 from './../assets/images/main3/T1.png';
 import t2 from './../assets/images/main3/T2.png';

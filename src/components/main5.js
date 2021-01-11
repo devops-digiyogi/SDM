@@ -1,5 +1,6 @@
 import React, { useState} from 'react'
 import './../css/comp/main5.css';
+import './../css/small-comp/main5.css';
 import './../css/body.css';
 
 export default function Main5() {

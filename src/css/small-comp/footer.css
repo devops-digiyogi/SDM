@@ -1,5 +1,7 @@
+@media only screen and (max-width: 1450px)
+{
 .foot{
-height:1000px;
+height:700px;
 position:relative;
 width:100%;
 display: flex;
@@ -9,9 +11,9 @@ background:#fafafa;
 .footheader{
 margin-top:7%;
 height:80px;
-width:84%;
+width:90%;
 position:relative;
-margin-left:8%;
+margin-left:5%;
 }
 .footheadbox{
 left:0;
@@ -26,15 +28,14 @@ width:100%;
 height:100%;
 font-family:Raleway;
 font-weight:700;
-font-size:50px;
+font-size:45px;
 }
 
 .footbody{
-width:84%;
-margin-left:8%;
-margin-right:8%;
+width:90%;
+margin-left:5%;
 height:70%;
-margin-top:2%;
+margin-top:1%;
 display:flex;
 flex-direction:column;
 background:url("./../../assets/images/footer/footimg.jpg")no-repeat;
@@ -56,7 +57,7 @@ height:10%;
 text-align:center;
 font-family:Raleway;
 font-weight:500;
-font-size:18px;
+font-size:15px;
 }
 .footbodycont1{
 width:30%;
@@ -67,23 +68,23 @@ flex-direction:column;
 .footconthead{
 font-family:Raleway;
 font-weight:600;
-font-size:40px;
+font-size:30px;
 margin-top:15%;
 }
 .footcontbody{
 font-family:Raleway;
 width:80%;
 font-weight:300;
-font-size:20px;
-margin-top:7%;
+font-size:16px;
+margin-top:5%;
 line-height:2;
 }
 .footcontbody1{
 font-family:Raleway;
 width:80%;
 font-weight:300;
-font-size:20px;
-margin-top:7%;
+font-size:16px;
+margin-top:5%;
 line-height:2;
 display:flex;
 flex-direction:row;
@@ -96,4 +97,5 @@ width:50%;
 .foothours{
 width:40%;
 height:100%;
+}
 }
