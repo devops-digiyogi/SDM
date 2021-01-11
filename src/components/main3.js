@@ -16,16 +16,7 @@ export default function Main3() {
                 </div>
                 <div className="main3three">03</div>
             </div>
-            <div className="main3body">
-                <div className="main3bodyimg">
-                    <div className="main3dots"></div>
-                </div>
-                <div className="main3bodytextbox">
-                    <div className="main3bodytextboxhead">Balakrishna Shenoy</div>
-                    <div className="main3bodytextboxbody1">Instructor, Owner</div>
-                    <div className="main3bodytextboxbody2">HAVE MORE THAN 25 YEARS OF EXPERIENCE IN DIFFERENT TYPES OF FOUR WHEELER DRIVING, ONE OF THE FIRST DRIVING TUTOR IN <b>UJIRE</b>.</div>
-                </div>
-            </div>
+
             <div className="main3footbox">
                 <div className="main3footinbox">
                     <img className="main3footimg" src={t1} alt="Person1" />
