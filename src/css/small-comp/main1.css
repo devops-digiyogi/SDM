@@ -1,4 +1,4 @@
-@media only screen and (max-width: 1450px)
+@media only screen and (max-width: 1850px)
 {
 .main1{
 height:900px;
@@ -78,7 +78,7 @@ background:#0099ff;
 }
 .main1vertext{
 height:15%;
-width:60%;
+width:300px;
 margin-top:20%;
 margin-left:-10%;
 color:#cfcfcf;
