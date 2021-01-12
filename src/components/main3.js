@@ -2,10 +2,10 @@ import React from 'react'
 import './../css/comp/main3.css';
 import './../css/small-comp/main3.css';
 import './../css/body.css';
-import t1 from './../assets/images/main3/T1.png';
-import t2 from './../assets/images/main3/T2.png';
-import t3 from './../assets/images/main3/T3.png';
-import t4 from './../assets/images/main3/T4.png';
+import t1 from './../assets/images/main3/T1.jpg';
+import t2 from './../assets/images/main3/T2.jpg';
+import t3 from './../assets/images/main3/T3.jpg';
+import t4 from './../assets/images/main3/T4.jpg';
 
 export default function Main3() {
     return (
