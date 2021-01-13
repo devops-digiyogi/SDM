@@ -1,6 +1,7 @@
 import React, { useState} from 'react'
 import './../css/comp/main4.css';
 import './../css/small-comp/main4.css';
+import './../css/big-tab-v/main4.css';
 import './../css/body.css';
 import user from './../assets/images/main4/user_icon.svg';
 import cake from './../assets/images/main4/birthday_cake.svg';

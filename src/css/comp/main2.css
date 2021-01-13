@@ -6,6 +6,7 @@ display: flex;
 flex-direction:column;
 z-index:-1;
 background:#fafafa;
+cursor: context-menu;
 }
 .main2head{
 margin-left:8%;

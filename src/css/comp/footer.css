@@ -5,6 +5,7 @@ width:100%;
 display: flex;
 flex-direction:column;
 background:#fafafa;
+cursor: context-menu;
 }
 .footheader{
 margin-top:7%;

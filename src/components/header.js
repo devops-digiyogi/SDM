@@ -1,6 +1,7 @@
 import React from 'react'
 import './../css/comp/header.css';
 import './../css/small-comp/header.css';
+import './../css/big-tab-v/header.css';
 import './../css/body.css';
 
 export default function Header() {

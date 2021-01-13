@@ -1,5 +1,7 @@
+@media only screen and (max-width: 1250px)
+{
 .main6{
-height:1000px;
+height:700px;
 position:relative;
 width:100%;
 display: flex;
@@ -8,18 +10,18 @@ background:#fafafa;
 cursor: context-menu;
 }
 .main6header{
-height:160px;
-width:92%;
+height:110px;
+width:97%;
 position:relative;
-margin-left:8%;
+margin-left:3%;
 }
 .main6six{
-right:100px;
+right:50px;
 position:absolute;
 color:#efefef;
 font-family:Raleway;
 font-weight:600;
-font-size:160px;
+font-size:140px;
 }
 .main6headbox{
 left:0;
@@ -27,36 +29,35 @@ display:flex;
 flex-direction:column;
 position:absolute;
 height:100%;
-width:35%;
+width:50%;
 }
 .main6headtext1{
 width:100%;
 height:50%;
 font-family:Raleway;
 font-weight:700;
-font-size:50px;
+font-size:40px;
 }
 .main6headtext2{
 width:100%;
 height:50%;
 font-family:Raleway;
 font-weight:500;
-font-size:30px;
+font-size:25px;
 line-height: 1.4;
 color:#9b9b9b;
 }
 .main6body{
-width:84%;
-margin-left:8%;
-margin-right:8%;
-height:80%;
-margin-top:2%;
+width:94%;
+margin-left:3%;
+margin-top:5%;
+margin-right:3%;
 display:flex;
 flex-direction:row;
 }
 .main6bodyleft{
 width:55%;
-height:95%;
+height:100%;
 display:flex;
 flex-direction:column;
 z-index:99;
@@ -68,7 +69,7 @@ border-bottom:1px solid #8f8f8f;
 background:#fafafa;
 font-family:Raleway;
 font-weight:500;
-font-size:22px;
+font-size:18px;
 padding:10px 30px;
 margin-top:5%;
 margin-bottom:3%;
@@ -81,7 +82,7 @@ border:1px solid #8f8f8f;
 background:#fafafa;
 font-family:Raleway;
 font-weight:500;
-font-size:22px;
+font-size:18px;
 padding:35px 0px 0px 30px ;
 margin-bottom:8%;
 border-radius:20px;
@@ -90,15 +91,15 @@ margin-top:5%;
 outline: none;
 }
 .main6button{
-margin-left:10%;
-width:50%;
+margin-left:13%;
+width:44%;
 font-family:Raleway;
 font-weight:600;
-font-size:22px;
+font-size:18px;
 text-align: center;
 color:white;
 background:#0099ff;
-padding:10px;
+padding:7px;
 border-radius:35px;
 transition:color 0.3s,background 0.3s;
 border:1px solid #0099ff;
@@ -125,33 +126,33 @@ border-radius:25px;
 }
 .main6righttext{
 position:absolute;
-margin-top:25%;
+margin-top:15%;
 margin-left:30%;
 height:60%;
-width:40%;
+width:50%;
 color:white;
 text-align:center;
 font-family:Raleway;
 font-weight:600;
-font-size:40px;
+font-size:30px;
 line-height: 2;
 }
 .main6deco1{
 position:absolute;
-top:-30px;
-right:-30px;
-width:100px;
-height:140px;
+top:-10px;
+right:-20px;
+width:60px;
+height:85px;
 background:url("./../../assets/images/main1/Decorative.svg")no-repeat;
 background-size: cover;
 }
 .main6deco2{
 position:absolute;
-bottom:0px;
-left:0px;
-width:100px;
-height:120px;
+bottom:-10px;
+left:-20px;
+width:60px;
+height:85px;
 background:url("./../../assets/images/main2/deco.png")no-repeat;
 background-size: cover;
-
+}
 }
