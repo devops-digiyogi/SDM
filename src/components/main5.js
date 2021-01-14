@@ -1,8 +1,10 @@
 import React, { useState} from 'react'
 import './../css/comp/main5.css';
-import './../css/small-comp/main5.css';
-import './../css/big-tab-v/main5.css';
-import './../css/big-mob-h/main5.css';
+import './../css/min-width-1850/main5.css';
+import './../css/min-width-1250/main5.css';
+import './../css/min-width-1000/main5.css';
+import './../css/min-width-800/main5.css';
+import './../css/min-width-700/main5.css';
 import './../css/body.css';
 
 export default function Main5() {
@@ -359,7 +361,7 @@ function icon8() {
   }
 }
     return (
-        <div className="main5">
+        <div className="main5" id="main5">
             <div className="main5header">
                 <div className="main5headbox">
                     <div className="main5headtext1">Frequently asked questions</div>

@@ -1,7 +1,7 @@
-@media only screen and (max-width: 1250px)
+@media only screen and (max-width: 700px)
 {
 .foot{
-height:620px;
+height:450px;
 position:relative;
 width:100%;
 display: flex;
@@ -11,7 +11,7 @@ cursor: context-menu;
 }
 .footheader{
 margin-top:7%;
-height:80px;
+height:60px;
 width:90%;
 position:relative;
 margin-left:5%;
@@ -29,7 +29,7 @@ width:100%;
 height:100%;
 font-family:Raleway;
 font-weight:700;
-font-size:40px;
+font-size:28px;
 }
 
 .footbody{
@@ -58,7 +58,7 @@ height:10%;
 text-align:center;
 font-family:Raleway;
 font-weight:500;
-font-size:13px;
+font-size:10px;
 }
 .footbodycont1{
 width:30%;
@@ -69,14 +69,14 @@ flex-direction:column;
 .footconthead{
 font-family:Raleway;
 font-weight:600;
-font-size:28px;
+font-size:22px;
 margin-top:15%;
 }
 .footcontbody{
 font-family:Raleway;
 width:80%;
 font-weight:300;
-font-size:14px;
+font-size:10px;
 margin-top:5%;
 line-height:2;
 }
@@ -84,7 +84,7 @@ line-height:2;
 font-family:Raleway;
 width:80%;
 font-weight:300;
-font-size:14px;
+font-size:10px;
 margin-top:5%;
 line-height:2;
 display:flex;

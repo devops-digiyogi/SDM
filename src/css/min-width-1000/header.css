@@ -1,4 +1,4 @@
-@media only screen and (max-width: 950px)
+@media only screen and (max-width: 1000px)
 {
 .header{
 height:80px;
@@ -34,5 +34,11 @@ display:flex;
 .menu ul li{
 margin-left:6%;
 cursor: pointer;
+}
+.menublock{
+display:none;
+}
+.logo1{
+display:none;
 }
 }

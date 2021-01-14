@@ -1,4 +1,4 @@
-@media only screen and (max-width: 1250px)
+@media only screen and (max-width: 1450px)
 {
 .main4{
 height:800px;
@@ -105,13 +105,14 @@ font-size:18px;
 border-radius:20px;
 display:flex;
 flex-direction:row;
+justify-content:space-between;
+padding:0 3% 0 0;
 }
 .main4auto1text{
-margin-left:5%;
+color:black;
 margin-top:5%;
 }
 .main4auto1img{
-margin-left:7%;
 margin-top:3%;
 height:40px;
 width:40px;
@@ -119,12 +120,10 @@ background:url("./../../assets/images/main4/auto-icon1.svg")no-repeat;
 background-size: cover;
 }
 .main4auto2text{
-margin-left:5%;
 margin-top:5%;
 color:#a8a8a8;
 }
 .main4auto2img{
-margin-left:7%;
 margin-top:3%;
 height:40px;
 width:40px;
@@ -132,11 +131,9 @@ background:url("./../../assets/images/main4/auto-icon2.svg")no-repeat;
 background-size: cover;
 }
 .main4man1text{
-margin-left:5%;
 margin-top:5%;
 }
 .main4man1img{
-margin-left:7%;
 margin-top:3%;
 height:40px;
 width:40px;
@@ -144,12 +141,10 @@ background:url("./../../assets/images/main4/Manual-icon1.svg")no-repeat;
 background-size: cover;
 }
 .main4man2text{
-margin-left:5%;
 margin-top:5%;
 color:#a8a8a8;
 }
 .main4man2img{
-margin-left:7%;
 margin-top:3%;
 height:40px;
 width:40px;
@@ -162,7 +157,6 @@ background-size: cover;
   display: inline-block;
   width: 50px;
   height: 25px;
-  margin-left:7%;
   margin-top:5%;
 }
 

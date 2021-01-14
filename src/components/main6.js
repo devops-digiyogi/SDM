@@ -1,13 +1,15 @@
 import React from 'react'
 import './../css/comp/main6.css';
-import './../css/small-comp/main6.css';
-import './../css/big-tab-v/main6.css';
-import './../css/big-mob-h/main6.css';
+import './../css/min-width-1850/main6.css';
+import './../css/min-width-1250/main6.css';
+import './../css/min-width-1000/main6.css';
+import './../css/min-width-800/main6.css';
+import './../css/min-width-700/main6.css';
 import './../css/body.css';
 
 export default function Main3() {
     return (
-        <div className="main6">
+        <div className="main6" id="main6">
             <div className="main6header">
                 <div className="main6headbox">
                     <div className="main6headtext1">Get in touch with us</div>

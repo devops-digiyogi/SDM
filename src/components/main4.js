@@ -1,8 +1,10 @@
 import React, { useState} from 'react'
 import './../css/comp/main4.css';
-import './../css/small-comp/main4.css';
-import './../css/big-tab-v/main4.css';
-import './../css/big-mob-h/main4.css';
+import './../css/min-width-1850/main4.css';
+import './../css/min-width-1250/main4.css';
+import './../css/min-width-1000/main4.css';
+import './../css/min-width-800/main4.css';
+import './../css/min-width-700/main4.css';
 import './../css/body.css';
 import user from './../assets/images/main4/user_icon.svg';
 import cake from './../assets/images/main4/birthday_cake.svg';
@@ -33,7 +35,7 @@ function myFunction() {
 }
 
     return (
-        <div className="main4">
+        <div className="main4" id="main4">
             <div className="main4header">
                 <div className="main4headbox">
                     <div className="main4headtext1">Sure to join !?</div>

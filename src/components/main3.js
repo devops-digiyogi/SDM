@@ -1,8 +1,10 @@
 import React from 'react'
 import './../css/comp/main3.css';
-import './../css/small-comp/main3.css';
-import './../css/big-tab-v/main3.css';
-import './../css/big-mob-h/main3.css';
+import './../css/min-width-1850/main3.css';
+import './../css/min-width-1250/main3.css';
+import './../css/min-width-1000/main3.css';
+import './../css/min-width-800/main3.css';
+import './../css/min-width-700/main3.css';
 import './../css/body.css';
 import t1 from './../assets/images/main3/T1.jpg';
 import t2 from './../assets/images/main3/T2.jpg';
@@ -11,7 +13,7 @@ import t4 from './../assets/images/main3/T4.jpg';
 
 export default function Main3() {
     return (
-        <div className="main3">
+        <div className="main3" id="main3">
             <div className="main3header">
                 <div className="main3headbox">
                     <div className="main3headtext1">Meet Our Instructors</div>

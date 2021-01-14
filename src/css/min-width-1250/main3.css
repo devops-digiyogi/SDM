@@ -1,7 +1,7 @@
-@media only screen and (max-width: 950px)
+@media only screen and (max-width: 1450px)
 {
 .main3{
-height:450px;
+height:550px;
 position:relative;
 width:100%;
 display: flex;
@@ -10,11 +10,10 @@ background:#fafafa;
 cursor: context-menu;
 }
 .main3header{
-height:85px;
+height:110px;
 width:95%;
 position:relative;
 margin-left:5%;
-margin-top:50px;
 }
 .main3three{
 right:50px;
@@ -22,7 +21,7 @@ position:absolute;
 color:#efefef;
 font-family:Raleway;
 font-weight:600;
-font-size:90px;
+font-size:140px;
 }
 .main3headbox{
 left:0;
@@ -37,14 +36,14 @@ width:100%;
 height:50%;
 font-family:Raleway;
 font-weight:700;
-font-size:30px;
+font-size:40px;
 }
 .main3headtext2{
 width:100%;
 height:50%;
 font-family:Raleway;
 font-weight:500;
-font-size:20px;
+font-size:25px;
 line-height: 1.4;
 color:#9b9b9b;
 }
@@ -74,14 +73,14 @@ height:12%;
 width:100%;
 font-family:Raleway;
 font-weight:600;
-font-size:20px;
+font-size:25px;
 }
 .main3footbody{
 height:10%;
 width:100%;
 font-family:Raleway;
 font-weight:400;
-font-size:15px;
+font-size:20px;
 color:#9b9b9b;
 }
 }

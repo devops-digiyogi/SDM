@@ -1,0 +1,158 @@
+@media only screen and (max-width: 1450px)
+{
+.main6{
+height:700px;
+position:relative;
+width:100%;
+display: flex;
+flex-direction:column;
+background:#fafafa;
+cursor: context-menu;
+}
+.main6header{
+height:110px;
+width:95%;
+position:relative;
+margin-left:5%;
+}
+.main6six{
+right:50px;
+position:absolute;
+color:#efefef;
+font-family:Raleway;
+font-weight:600;
+font-size:140px;
+}
+.main6headbox{
+left:0;
+display:flex;
+flex-direction:column;
+position:absolute;
+height:100%;
+width:50%;
+}
+.main6headtext1{
+width:100%;
+height:50%;
+font-family:Raleway;
+font-weight:700;
+font-size:40px;
+}
+.main6headtext2{
+width:100%;
+height:50%;
+font-family:Raleway;
+font-weight:500;
+font-size:25px;
+line-height: 1.4;
+color:#9b9b9b;
+}
+.main6body{
+width:94%;
+margin-left:3%;
+margin-top:5%;
+margin-right:3%;
+display:flex;
+flex-direction:row;
+}
+.main6bodyleft{
+width:55%;
+height:100%;
+display:flex;
+flex-direction:column;
+z-index:99;
+}
+.main6textbox1{
+width:70%;
+border:none;
+border-bottom:1px solid #8f8f8f;
+background:#fafafa;
+font-family:Raleway;
+font-weight:500;
+font-size:18px;
+padding:10px 30px;
+margin-top:5%;
+margin-bottom:3%;
+outline: none;
+}
+.main6textbox2{
+width:73%;
+height:50%;
+border:1px solid #8f8f8f;
+background:#fafafa;
+font-family:Raleway;
+font-weight:500;
+font-size:18px;
+padding:35px 0px 0px 30px ;
+margin-bottom:8%;
+border-radius:20px;
+resize: none;
+margin-top:5%;
+outline: none;
+}
+.main6button{
+margin-left:13%;
+width:44%;
+font-family:Raleway;
+font-weight:600;
+font-size:18px;
+text-align: center;
+color:white;
+background:#0099ff;
+padding:7px;
+border-radius:35px;
+transition:color 0.3s,background 0.3s;
+border:1px solid #0099ff;
+}
+.main6button:hover{
+cursor:pointer;
+color:#0099ff;
+background:white;
+}
+
+.main6bodyright{
+width:45%;
+height:100%;
+}
+.main6rightimg{
+position:relative;
+margin-top:5%;
+height:75%;
+width:98%;
+background:url("./../../assets/images/main6/gear.jpg")no-repeat;
+background-size:130%;
+background-position: center;
+border-radius:25px;
+}
+.main6righttext{
+position:absolute;
+margin-top:15%;
+margin-left:30%;
+height:60%;
+width:50%;
+color:white;
+text-align:center;
+font-family:Raleway;
+font-weight:600;
+font-size:30px;
+line-height: 2;
+}
+.main6deco1{
+position:absolute;
+top:-10px;
+right:-20px;
+width:60px;
+height:85px;
+background:url("./../../assets/images/main1/Decorative.svg")no-repeat;
+background-size: cover;
+}
+.main6deco2{
+position:absolute;
+bottom:-10px;
+left:-20px;
+width:60px;
+height:85px;
+background:url("./../../assets/images/main2/deco.png")no-repeat;
+background-size: cover;
+}
+}

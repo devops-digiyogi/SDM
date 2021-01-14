@@ -1,8 +1,10 @@
 import React from 'react'
 import './../css/comp/main2.css';
-import './../css/small-comp/main2.css';
-import './../css/big-tab-v/main2.css';
-import './../css/big-mob-h/main2.css';
+import './../css/min-width-1850/main2.css';
+import './../css/min-width-1250/main2.css';
+import './../css/min-width-1000/main2.css';
+import './../css/min-width-800/main2.css';
+import './../css/min-width-700/main2.css';
 import './../css/body.css';
 
 import dl from './../assets/images/main2/dl.svg';
@@ -18,7 +20,7 @@ import i4 from './../assets/images/main2/icon4.svg';
 
 export default function Main2() {
     return (
-        <div className="main2">
+        <div className="main2" id="main2">
             <div className="main2head">
                 <div className="main2headbox">
                     <div className="main2headtext1">Our features</div>

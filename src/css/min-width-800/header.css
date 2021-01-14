@@ -1,4 +1,4 @@
-@media only screen and (max-width: 1850px)
+@media only screen and (max-width: 800px)
 {
 .header{
 height:80px;
@@ -15,7 +15,7 @@ width:200px;
 padding-left: 5%;
 font-family:Raleway;
 font-weight:700;
-font-size:20px;
+font-size:17px;
 cursor: context-menu;
 }
 
@@ -23,8 +23,8 @@ cursor: context-menu;
 float:right;
 font-family:Raleway;
 font-weight:700;
-font-size:20px;
-width:55%;
+font-size:12px;
+width:60%;
 overflow:hidden;
 }
 .menu ul{
@@ -32,7 +32,13 @@ list-style-type: none;
 display:flex;
 }
 .menu ul li{
-margin-left:8%;
+margin-left:6%;
 cursor: pointer;
+}
+.menublock{
+display:none;
+}
+.logo1{
+display:none;
 }
 }

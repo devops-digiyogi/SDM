@@ -1,13 +1,15 @@
 import React from 'react'
 import './../css/comp/footer.css';
-import './../css/small-comp/footer.css';
-import './../css/big-tab-v/footer.css';
-import './../css/big-mob-h/footer.css';
+import './../css/min-width-1850/footer.css';
+import './../css/min-width-1250/footer.css';
+import './../css/min-width-1000/footer.css';
+import './../css/min-width-800/footer.css';
+import './../css/min-width-700/footer.css';
 import './../css/body.css';
 
 export default function Main3() {
     return (
-        <div className="foot">
+        <div className="foot" id="foot">
             <div className="footheader">
                 <div className="footheadbox">
                     <div className="footheadtext1">About Us</div>

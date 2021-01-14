@@ -1,7 +1,7 @@
-@media only screen and (max-width: 1850px)
+@media only screen and (max-width: 700px)
 {
 .main4{
-height:1100px;
+height:550px;
 position:relative;
 width:100%;
 display: flex;
@@ -10,18 +10,18 @@ background:#fafafa;
 cursor: context-menu;
 }
 .main4header{
-height:130px;
+height:90px;
 width:95%;
 position:relative;
 margin-left:5%;
 }
 .main4four{
-right:60px;
+right:50px;
 position:absolute;
 color:#efefef;
 font-family:Raleway;
 font-weight:600;
-font-size:140px;
+font-size:90px;
 }
 .main4headbox{
 left:0;
@@ -29,7 +29,7 @@ display:flex;
 flex-direction:column;
 position:absolute;
 height:100%;
-width:35%;
+width:45%;
 }
 .main4headtext1{
 width:100%;
@@ -37,7 +37,7 @@ height:50%;
 margin-top:5%;
 font-family:Raleway;
 font-weight:700;
-font-size:45px;
+font-size:28px;
 }
 .main4headtext2{
 width:100%;
@@ -45,12 +45,12 @@ height:50%;
 margin-top:5%;
 font-family:Raleway;
 font-weight:700;
-font-size:45px;
+font-size:28px;
 }
 .main4body{
-width:90%;
-margin-left:5%;
-height:80%;
+width:94%;
+margin-left:3%;
+height:70%;
 margin-top:8%;
 background:url("./../../assets/images/main4/bg.png")no-repeat;
 background-size:100%;
@@ -62,10 +62,10 @@ flex-direction:column;
 }
 .main4deco{
 position:absolute;
-width:90px;
-height:120px;
+width:45px;
+height:65px;
 top:-20px;
-right:-20px;
+right:-15px;
 background:url("./../../assets/images/main1/Decorative.svg")no-repeat;
 background-size: cover;
 }
@@ -90,69 +90,65 @@ height:30%;
 margin-top:10%;
 font-family:Raleway;
 font-weight:600;
-font-size:32px;
+font-size:18px;
 line-height:1.6;
 }
 .main4uppart2{
 background:white;
 width:60%;
-margin-left:5%;
-height:38%;
+margin-left:8%;
+height:35%;
 margin-top:10%;
 font-family:Raleway;
 font-weight:700;
-font-size:25px;
+font-size:10px;
 border-radius:20px;
 display:flex;
 flex-direction:row;
+justify-content:space-between;
+padding:0 3% 0 0;
 }
 .main4auto1text{
-margin-left:3%;
+color:black;
 margin-top:7%;
 }
 .main4auto1img{
-margin-left:10%;
 margin-top:4%;
-height:70px;
-width:70px;
+height:30px;
+width:30px;
 background:url("./../../assets/images/main4/auto-icon1.svg")no-repeat;
 background-size: cover;
 }
 .main4auto2text{
-margin-left:3%;
 margin-top:7%;
 color:#a8a8a8;
 }
 .main4auto2img{
-margin-left:10%;
 margin-top:4%;
-height:70px;
-width:70px;
+height:30px;
+width:30px;
 background:url("./../../assets/images/main4/auto-icon2.svg")no-repeat;
 background-size: cover;
 }
 .main4man1text{
-margin-left:4%;
+color:black;
 margin-top:7%;
 }
 .main4man1img{
-margin-left:5%;
 margin-top:4%;
-height:70px;
-width:70px;
+height:30px;
+width:30px;
 background:url("./../../assets/images/main4/Manual-icon1.svg")no-repeat;
 background-size: cover;
 }
 .main4man2text{
-margin-left:4%;
 margin-top:7%;
 color:#a8a8a8;
 }
 .main4man2img{
-margin-left:5%;
 margin-top:4%;
-height:70px;
-width:70px;
+height:30px;
+width:30px;
 background:url("./../../assets/images/main4/manual-icon2.svg")no-repeat;
 background-size: cover;
 }
@@ -160,9 +156,8 @@ background-size: cover;
 .switch {
   position: relative;
   display: inline-block;
-  width: 60px;
-  height: 34px;
-  margin-left:5%;
+  width: 30px;
+  height: 14px;
   margin-top:7%;
 }
 
@@ -183,10 +178,10 @@ background-size: cover;
 .slider:before {
   position: absolute;
   content: "";
-  height: 26px;
-  width: 26px;
-  left: 4px;
-  bottom: 4px;
+  height: 10px;
+  width: 10px;
+  left: 2px;
+  bottom: 1px;
   background-color: #0099ff;
   -webkit-transition: .4s;
   transition: .4s;
@@ -194,13 +189,13 @@ background-size: cover;
 
 
 input:checked + .slider:before {
-  -webkit-transform: translateX(26px);
-  -ms-transform: translateX(26px);
-  transform: translateX(26px);
+  -webkit-transform: translateX(15px);
+  -ms-transform: translateX(15px);
+  transform: translateX(15px);
 }
 
 .slider.round {
-  border-radius: 34px;
+  border-radius: 30px;
 }
 
 .slider.round:before {
@@ -212,7 +207,7 @@ height:30%;
 margin-top:5%;
 font-family:Raleway;
 font-weight:600;
-font-size:32px;
+font-size:18px;
 line-height:1.6;
 }
 .main4downpart2{
@@ -235,31 +230,31 @@ flex-direction:row;
 .main4downtextboxin{
 width:43%;
 height:100%;
-border:1px solid #adadad;
+border:0px solid #adadad;
 background:white;
 border-radius:10px;
-padding-left:4%;
+padding:4px 10px;
 font-family:Raleway;
 font-weight:550;
-font-size:16px;
+font-size:10px;
 color:#000;
 outline:none;
 }
 .main4downimg{
-height:20px;
-width:20px;
+height:15px;
+width:15px;
 margin-left:-12%;
 }
 .main4button{
-margin-left:15%;
-width:70%;
+margin-left:25%;
+width:50%;
 font-family:Raleway;
 font-weight:600;
-font-size:20px;
+font-size:14px;
 text-align: center;
 color:white;
 background:#0099ff;
-padding:10px;
+padding:6px;
 border-radius:35px;
 transition:color 0.3s,background 0.3s;
 border:1px solid #0099ff;
@@ -271,6 +266,6 @@ background:white;
 }
 .main4downtextboxout1{
 width:100%;
-margin-top:3%;
+margin-top:1%;
 }
 }

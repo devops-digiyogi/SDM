@@ -1,5 +1,7 @@
+@media only screen and (max-width: 1450px)
+{
 .header{
-height:100px;
+height:80px;
 box-shadow:0px 55px 70px #f3f3f3;
 position:relative;
 width:100%;
@@ -8,13 +10,12 @@ align-items: center;
 justify-content: space-between;
 }
 
-
 .logo{
 width:200px;
-padding-left: 8%;
+padding-left: 5%;
 font-family:Raleway;
 font-weight:700;
-font-size:22px;
+font-size:18px;
 cursor: context-menu;
 }
 
@@ -22,25 +23,23 @@ cursor: context-menu;
 float:right;
 font-family:Raleway;
 font-weight:700;
-font-size:22px;
-width:60%;
+font-size:18px;
+width:56%;
 overflow:hidden;
-display:block;
-}
-.menu1{
-display:none;
 }
 .menu ul{
 list-style-type: none;
 display:flex;
 }
 .menu ul li{
-margin-left:10%;
+margin-left:6%;
 cursor: pointer;
+}
+
+.menublock{
+display:none;
 }
 .logo1{
 display:none;
 }
-.menublock{
-display:none;
 }

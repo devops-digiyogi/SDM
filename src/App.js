@@ -6,11 +6,13 @@ import Main4 from './components/main4.js'
 import Main5 from './components/main5.js'
 import Main6 from './components/main6.js'
 import Footer from './components/footer.js'
+import Menu from './components/menu.js'
 
 function App() {
   return (
     <div className="App">
         <Header />
+        <Menu />
         <Main1 />
         <Main2 />
         <Main3 />
