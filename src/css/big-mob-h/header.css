@@ -1,4 +1,4 @@
-@media only screen and (max-width: 1250px)
+@media only screen and (max-width: 950px)
 {
 .header{
 height:80px;
@@ -12,10 +12,10 @@ justify-content: space-between;
 
 .logo{
 width:200px;
-padding-left: 3%;
+padding-left: 5%;
 font-family:Raleway;
 font-weight:700;
-font-size:18px;
+font-size:17px;
 cursor: context-menu;
 }
 
@@ -23,8 +23,8 @@ cursor: context-menu;
 float:right;
 font-family:Raleway;
 font-weight:700;
-font-size:18px;
-width:56%;
+font-size:15px;
+width:60%;
 overflow:hidden;
 }
 .menu ul{

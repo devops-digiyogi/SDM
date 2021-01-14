@@ -2,6 +2,7 @@ import React from 'react'
 import './../css/comp/footer.css';
 import './../css/small-comp/footer.css';
 import './../css/big-tab-v/footer.css';
+import './../css/big-mob-h/footer.css';
 import './../css/body.css';
 
 export default function Main3() {

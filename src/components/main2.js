@@ -2,6 +2,7 @@ import React from 'react'
 import './../css/comp/main2.css';
 import './../css/small-comp/main2.css';
 import './../css/big-tab-v/main2.css';
+import './../css/big-mob-h/main2.css';
 import './../css/body.css';
 
 import dl from './../assets/images/main2/dl.svg';

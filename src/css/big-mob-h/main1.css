@@ -1,7 +1,7 @@
-@media only screen and (max-width: 1250px)
+@media only screen and (max-width: 950px)
 {
 .main1{
-height:700px;
+height:460px;
 position:relative;
 width:100%;
 display: flex;
@@ -12,10 +12,10 @@ cursor: context-menu;
 }
 
 .main1box1{
-width:42%;
+width:40%;
 display:flex;
 flex-direction:column;
-margin-left:3%;
+margin-left:5%;
 height:100%;
 }
 .main1box2{
@@ -25,22 +25,22 @@ flex-direction:column;
 height:100%;
 }
 .main1text1{
-margin-top:25%;
+margin-top:15%;
 font-family:Raleway;
 font-weight:300;
-font-size:30px;
+font-size:25px;
 }
 .main1text2{
 margin-top:4%;
 font-family:Raleway;
 font-weight:500;
-font-size:40px;
+font-size:28px;
 }
 .main1text3{
 margin-top:3.5%;
 font-family:Raleway;
 font-weight:700;
-font-size:40px;
+font-size:32px;
 }
 .main1buttonbox{
 margin-top:8%;
@@ -48,15 +48,16 @@ display:flex;
 flex-direction:row;
 font-family:Raleway;
 font-weight:600;
-font-size:18px;
+font-size:12px;
 text-align: center;
 color:white;
 }
 .main1button1{
+height:15px;
 background:#0099ff;
 margin-right:3%;
-border:3px solid #0099ff;
-padding:10px 30px;
+border:1px solid #0099ff;
+padding:5px 20px;
 border-radius:35px;
 transition:color 0.3s,background 0.3s;
 }
@@ -66,9 +67,10 @@ color:#0099ff;
 background:white;
 }
 .main1button2{
+height:15px;
 color:#0099ff;
-border:3px solid #0099ff;
-padding:10px 30px;
+border:1px solid #0099ff;
+padding:5px 20px;
 border-radius:35px;
 transition:color 0.3s,background 0.3s;
 }
@@ -79,13 +81,13 @@ background:#0099ff;
 }
 .main1vertext{
 height:3%;
-width:300px;
-margin-top:20%;
-margin-left:-30%;
+width:200px;
+margin-top:22%;
+margin-left:-25%;
 color:#cfcfcf;
 font-family:Raleway;
 font-weight:400;
-font-size:22px;
+font-size:15px;
 letter-spacing: 2px;
 transform: rotate(270deg);
 }
@@ -101,8 +103,8 @@ border-radius:10px;
 }
 
 .main1dots{
-width:60px;
-height:85px;
+width:40px;
+height:65px;
 margin-top:-10%;
 margin-left:3%;
 background:url("./../../assets/images/main1/Decorative.svg")no-repeat;
@@ -137,7 +139,7 @@ position:absolute;
 color:#efefef;
 font-family:Raleway;
 font-weight:600;
-font-size:140px;
+font-size:90px;
 right:50px;
 }
 }
