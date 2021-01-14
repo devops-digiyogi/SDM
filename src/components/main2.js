@@ -5,6 +5,7 @@ import './../css/min-width-1250/main2.css';
 import './../css/min-width-1000/main2.css';
 import './../css/min-width-800/main2.css';
 import './../css/min-width-700/main2.css';
+import './../css/min-width-600/main2.css';
 import './../css/body.css';
 
 import dl from './../assets/images/main2/dl.svg';

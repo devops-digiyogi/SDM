@@ -5,6 +5,7 @@ import './../css/min-width-1250/main3.css';
 import './../css/min-width-1000/main3.css';
 import './../css/min-width-800/main3.css';
 import './../css/min-width-700/main3.css';
+import './../css/min-width-600/main3.css';
 import './../css/body.css';
 import t1 from './../assets/images/main3/T1.jpg';
 import t2 from './../assets/images/main3/T2.jpg';

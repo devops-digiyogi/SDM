@@ -9,6 +9,7 @@ flex-direction:row;
 align-items: center;
 background:#fafafa;
 cursor: context-menu;
+margin-top:70px;
 }
 
 .main1box1{
@@ -141,5 +142,8 @@ font-family:Raleway;
 font-weight:600;
 font-size:60px;
 right:30px;
+}
+.main1mob{
+display:none;
 }
 }

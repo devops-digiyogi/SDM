@@ -5,6 +5,7 @@ import './../css/min-width-1250/header.css';
 import './../css/min-width-1000/header.css';
 import './../css/min-width-800/header.css';
 import './../css/min-width-700/header.css';
+import './../css/min-width-600/header.css';
 import './../css/body.css';
 
 export default function Header() {

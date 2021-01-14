@@ -5,6 +5,7 @@ import './../css/min-width-1250/main5.css';
 import './../css/min-width-1000/main5.css';
 import './../css/min-width-800/main5.css';
 import './../css/min-width-700/main5.css';
+import './../css/min-width-600/main5.css';
 import './../css/body.css';
 
 export default function Main5() {

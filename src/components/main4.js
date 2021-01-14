@@ -5,6 +5,7 @@ import './../css/min-width-1250/main4.css';
 import './../css/min-width-1000/main4.css';
 import './../css/min-width-800/main4.css';
 import './../css/min-width-700/main4.css';
+import './../css/min-width-600/main4.css';
 import './../css/body.css';
 import user from './../assets/images/main4/user_icon.svg';
 import cake from './../assets/images/main4/birthday_cake.svg';
