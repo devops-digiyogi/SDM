@@ -6,6 +6,7 @@ import './../css/min-width-1000/main4.css';
 import './../css/min-width-800/main4.css';
 import './../css/min-width-700/main4.css';
 import './../css/min-width-600/main4.css';
+import './../css/min-width-500/main4.css';
 import './../css/body.css';
 import user from './../assets/images/main4/user_icon.svg';
 import cake from './../assets/images/main4/birthday_cake.svg';
@@ -63,22 +64,34 @@ function myFunction() {
                     <div className="main4downpart1">Tell us a little more about yourself</div>
                     <div className="main4downpart2">
                         <div className="main4downtextboxout">
+                        <div className="main4downrow">
                             <input type="text" className="main4downtextboxin" name="fname" placeholder="First name" required/>
                             <img src={user} className="main4downimg" alt="user"/>
+                        </div>
+                        <div className="main4downrow">
                             <input type="text" className="main4downtextboxin" name="lname" placeholder="Last name" required/>
                             <img src={user} className="main4downimg" alt="user"/>
                         </div>
+                        </div>
                         <div className="main4downtextboxout">
+                        <div className="main4downrow">
                             <input type="number" className="main4downtextboxin" name="lname" placeholder="Age" required/>
                             <img src={cake} className="main4downimg" alt="cake"/>
+                        </div>
+                        <div className="main4downrow">
                             <input type="text" className="main4downtextboxin" name="gender" placeholder="Gender" required/>
                             <img src={gender} className="main4downimg" alt="gender"/>
                         </div>
+                        </div>
                         <div className="main4downtextboxout">
+                        <div className="main4downrow">
                             <input type="email" className="main4downtextboxin" name="email" placeholder="Email" required/>
                             <img src={email} className="main4downimg" alt="email"/>
+                        </div>
+                        <div className="main4downrow">
                             <input type="text" className="main4downtextboxin" name="date" onFocus="(this.type='date')" onBlur="(this.type='text')" placeholder="Preferred joining date" required/>
                             <img src={cal} className="main4downimg" alt="date"/>
+                        </div>
                         </div>
                         <div className="main4downtextboxout1">
                             <div className="main4button">Join Now</div>

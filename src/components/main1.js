@@ -6,6 +6,7 @@ import './../css/min-width-1000/main1.css';
 import './../css/min-width-800/main1.css';
 import './../css/min-width-700/main1.css';
 import './../css/min-width-600/main1.css';
+import './../css/min-width-500/main1.css';
 import './../css/body.css';
 
 export default function Main1() {

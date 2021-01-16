@@ -6,6 +6,7 @@ import './../css/min-width-1000/header.css';
 import './../css/min-width-800/header.css';
 import './../css/min-width-700/header.css';
 import './../css/min-width-600/header.css';
+import './../css/min-width-500/header.css';
 import './../css/body.css';
 
 export default function Menu() {
@@ -40,9 +41,9 @@ document.getElementById("menublock").style.display = "none";
             <ul id="list">
                 <li onClick={Home}>Home</li>
                 <li onClick={About}>About Us</li>
-                <li onClick={Feature}>Features</li>
+                <li onClick={Feature}>Services</li>
                 <li onClick={Contact}>Contact Us</li>
-                <li onClick={Rules}>Rules</li>
+                <li onClick={Rules}>FAQ</li>
             </ul>
     </div>
  </div>

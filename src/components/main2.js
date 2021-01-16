@@ -6,6 +6,7 @@ import './../css/min-width-1000/main2.css';
 import './../css/min-width-800/main2.css';
 import './../css/min-width-700/main2.css';
 import './../css/min-width-600/main2.css';
+import './../css/min-width-500/main2.css';
 import './../css/body.css';
 
 import dl from './../assets/images/main2/dl.svg';
@@ -24,7 +25,7 @@ export default function Main2() {
         <div className="main2" id="main2">
             <div className="main2head">
                 <div className="main2headbox">
-                    <div className="main2headtext1">Our features</div>
+                    <div className="main2headtext1">Our Services</div>
                     <div className="main2headtext2">To make you as a better driver, we have some great features to support.</div>
                 </div>
                 <div className="main2two">02</div>
@@ -35,8 +36,8 @@ export default function Main2() {
                     <div className="main2innerbox1">
                         <div className="main2feature">
                             <img className="main2featureimg" src={dl} alt="Driving Licence" />
-                            <div className="main2featuretext1">Driving Licence</div>
-                            <div className="main2featuretext2">If you are applying only for licence or driving classes + licence both process wont take much time here.</div>
+                            <div className="main2featuretext1">Driving License</div>
+                            <div className="main2featuretext2">If you are applying only for license or driving classes + license both process wont take much time here.</div>
                         </div>
                         <div className="main2feature">
                             <img className="main2featureimg" src={mul} alt="Multiple Vehicle" />
@@ -53,7 +54,7 @@ export default function Main2() {
                         <div className="main2feature">
                             <img className="main2featureimg" src={veh} alt="Vehicle Insurance" />
                             <div className="main2featuretext1">Vehicle Insurance</div>
-                            <div className="main2featuretext2">Vehicle insurance assistance for private cars, motorised two wheelers. </div>
+                            <div className="main2featuretext2">Vehicle insurance assistance for private cars, motorized two wheelers. </div>
                         </div>
                         <div className="main2feature">
                             <img className="main2featureimg" src={ler} alt="Learning Roads" />
@@ -70,6 +71,7 @@ export default function Main2() {
                 <div className="main2deco2"></div>
             </div>
             <div className="main2blueboxout">
+            <div className="main2blueboxinner">
                 <div className="main2blueboxin">
                     <img className="main2blueimg" src={i1} alt="icon1" />
                     <div className="main2bluehead">10000+</div>
@@ -80,6 +82,8 @@ export default function Main2() {
                     <div className="main2bluehead">5</div>
                     <div className="main2bluebody">Top Instructors</div>
                 </div>
+            </div>
+            <div className="main2blueboxinner">
                 <div className="main2blueboxin">
                     <img className="main2blueimg" src={i3} alt="icon3" />
                     <div className="main2bluehead">25 years</div>
@@ -90,6 +94,7 @@ export default function Main2() {
                     <div className="main2bluehead">20+</div>
                     <div className="main2bluebody">Students currently</div>
                 </div>
+            </div>
             </div>
         </div>
     );

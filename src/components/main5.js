@@ -6,6 +6,7 @@ import './../css/min-width-1000/main5.css';
 import './../css/min-width-800/main5.css';
 import './../css/min-width-700/main5.css';
 import './../css/min-width-600/main5.css';
+import './../css/min-width-500/main5.css';
 import './../css/body.css';
 
 export default function Main5() {
@@ -389,7 +390,7 @@ function icon8() {
                     <div className="main5tabs">
                         <div className="up" id="up2">
                             <div className="main5tabicon" onClick={icon2}><div className={main5arrow2} /></div>
-                            <div className="main5tabtext">How many times do a student have to visit RTO office for driving licence?</div>
+                            <div className="main5tabtext">How many times do a student have to visit RTO office for driving license?</div>
                         </div>
                         <div className="down" id="down2">
                             <div className="main5tabtext1">One time. it will be for Driving Test.</div>

@@ -6,6 +6,7 @@ import './../css/min-width-1000/footer.css';
 import './../css/min-width-800/footer.css';
 import './../css/min-width-700/footer.css';
 import './../css/min-width-600/footer.css';
+import './../css/min-width-500/footer.css';
 import './../css/body.css';
 
 export default function Main3() {

@@ -58,10 +58,11 @@ display:flex;
 flex-direction:row;
 }
 .main3footinbox{
-width:23%;
+width:48%;
 height:100%;
 display:flex;
 flex-direction:column;
+margin-right:2%;
 }
 .main3footimg{
 width:100%;
