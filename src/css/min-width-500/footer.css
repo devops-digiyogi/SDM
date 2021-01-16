@@ -58,7 +58,7 @@ height:10%;
 text-align:center;
 font-family:Raleway;
 font-weight:500;
-font-size:8px;
+font-size:6px;
 }
 .footbodycont1{
 width:30%;
@@ -69,14 +69,14 @@ flex-direction:column;
 .footconthead{
 font-family:Raleway;
 font-weight:600;
-font-size:16px;
+font-size:14px;
 margin-top:15%;
 }
 .footcontbody{
 font-family:Raleway;
 width:80%;
 font-weight:300;
-font-size:8px;
+font-size:6px;
 margin-top:5%;
 line-height:2;
 }
@@ -84,7 +84,7 @@ line-height:2;
 font-family:Raleway;
 width:80%;
 font-weight:300;
-font-size:8px;
+font-size:6px;
 margin-top:5%;
 line-height:2;
 display:flex;
